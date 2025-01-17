@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristensala&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kristensala&theme=radical&layout=donut)
 
 <!--
 **kristensala/kristensala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
